@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Wi-Fi",
+    "problem": "Wi-Fi is not connecting",
+    "solution": [
+      "Check whether Wi-Fi is enabled.",
+      "Forget the Wi-Fi network and reconnect.",
+      "Enter the correct password.",
+      "Restart the device."
+    ]
+  },
+  {
+    "category": "Login",
+    "problem": "Cannot login to student portal",
+    "solution": [
+      "Check your username and password.",
+      "Use the Forgot Password option.",
+      "Clear browser cache and try again.",
+      "Try another browser."
+    ]
+  },
+  {
+    "category": "Printer",
+    "problem": "Printer is not printing",
+    "solution": [
+      "Check whether the printer is powered on.",
+      "Check paper and ink.",
+      "Check the cable or network connection.",
+      "Restart the printer."
+    ]
+  },
+  {
+    "category": "Email",
+    "problem": "College email is not syncing",
+    "solution": [
+      "Check your internet connection.",
+      "Re-enter your email password.",
+      "Check email settings.",
+      "Restart the email application."
+    ]
+  }
+]
